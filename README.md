@@ -1,5 +1,5 @@
 # SimpleITK-Medical-Image-Processing-Project
-This project structure gives you a comprehensive framework to learn all major aspects of SimpleITK, from basic operations to advanced registration and segmentation techniques. You can start with the notebooks and then move to the scripts as you become more comfortable.
+This project structure gives you a comprehensive framework to learn all major aspects of SimpleITK, from basic operations to advanced registration and segmentation techniques. 
 
 ## Project Structure
 
