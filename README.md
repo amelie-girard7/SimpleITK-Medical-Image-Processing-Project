@@ -140,6 +140,8 @@ ipywidgets>=7.6.0
    - MIDAS dataset from Kitware
    - BrainWeb simulated MRI dataset
 
+2. https://github.com/SimpleITK/SimpleITK
+
 
 
 
